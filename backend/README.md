@@ -3,10 +3,10 @@
 This project demonstrates a basic Hardhat use case. It comes with Billing contract, a test for that contract, and a script that deploys that contract.  
 <br />
 # Overall Cracked Hardhat Documentation Turtorial on Deploying + Creating
-Docs: https://hardhat.org/tutorial/deploying-to-a-live-network
-Deploy to Mumbai: https://wiki.polygon.technology/docs/develop/hardhat/
-Setting up dotenv: https://www.npmjs.com/package/dotenv
-Viewing Contract on PolyScan: https://mumbai.polygonscan.com/address/0x979E5606Db392d8abb3605A896eD7a7aD9Ba3d0c#code
+Docs: https://hardhat.org/tutorial/deploying-to-a-live-network  
+Deploy to Mumbai: https://wiki.polygon.technology/docs/develop/hardhat/  
+Setting up dotenv: https://www.npmjs.com/package/dotenv  
+Viewing Contract on PolyScan: https://mumbai.polygonscan.com/address/0x979E5606Db392d8abb3605A896eD7a7aD9Ba3d0c#code  
 
 <br /><br />
 # Overall Workflow
