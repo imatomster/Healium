@@ -1,12 +1,16 @@
 # Healium Smart Contract Commands
 
+Working Contract on Polygon Scan: https://mumbai.polygonscan.com/address/0xafb9DDf5A0Cb46C483F760aA57500239bC45fD74#code  
+
 This project demonstrates a basic Hardhat use case. It comes with Billing contract, a test for that contract, and a script that deploys that contract.  
 <br />
 # Overall Cracked Hardhat Documentation Turtorial on Deploying + Creating
 Docs: https://hardhat.org/tutorial/deploying-to-a-live-network  
 Deploy to Mumbai: https://wiki.polygon.technology/docs/develop/hardhat/  
 Setting up dotenv: https://www.npmjs.com/package/dotenv  
-Viewing Contract on PolyScan: https://mumbai.polygonscan.com/address/0x979E5606Db392d8abb3605A896eD7a7aD9Ba3d0c#code  
+Mumbai Faucet: https://faucet.polygon.technology/  
+Polygon Mumbai Scan: https://mumbai.polygonscan.com  
+
 
 <br /><br />
 # Overall Workflow

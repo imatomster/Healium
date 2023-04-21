@@ -1,5 +1,6 @@
 const { expect } = require("chai");
 const { loadFixture } = require("@nomicfoundation/hardhat-network-helpers");
+const web3 = require("web3");
 
 describe("Billing Contract", function () {
   async function deployBillingFixture() {
@@ -75,15 +76,29 @@ describe("Billing Contract", function () {
 
   describe("Paying Bills", function () {
     it("Should pay one bill and emit", async function () {
-        const { hardhatBilling, physician, patient } = await loadFixture(
-            deployBillingFixture
-          );
-    
-          await hardhatBilling.connect(physician).createBill(patient.address, 69930, 125400)
-          
-          expect(hardhatBilling.connect(patient).payBill({value: 125400}, patient.address, 0))
-            .to.emit(hardhatBilling, "BillPaid")
-            .withArgs(patient.address, 69930, 125400, true);
+      const { hardhatBilling, physician, patient } = await loadFixture(
+        deployBillingFixture
+      );
+
+      // represents 0.01 ether but in a datatype called BigInt (which is builtinto JS)
+      // 10n ** 18n is standard but its 16n because 0.01 must represented by e-2
+      let cost = 1n * 10n ** 16n;
+
+      await hardhatBilling
+        .connect(physician)
+        .createBill(patient.address, 00000, cost);
+
+      expect(
+        await hardhatBilling
+          .connect(patient)
+          .payBill(
+            patient.address,
+            0,
+            { value: web3.utils.toWei("0.01", "ether") }
+          )
+      )
+        .to.emit(hardhatBilling, "BillPaid")
+        .withArgs(patient.address, 00000, cost, true);
     });
   });
 });

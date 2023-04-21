@@ -10,18 +10,18 @@ contract Billing is Ownable {
         address physician;
         address patient;
         uint256 cptcode;
-        uint256 pricex100;
+        uint256 priceE18;
         bool paid;
     }
     
     mapping (address => Bill[]) public bills;
     
-    event BillCreated(address indexed physician, address indexed patient, uint256 cptcode, uint256 pricex100);
-    event BillPaid(address indexed patient, uint256 cptcode, uint256 pricex100, bool paid);
+    event BillCreated(address indexed physician, address indexed patient, uint256 cptcode, uint256 priceE18);
+    event BillPaid(address indexed patient, uint256 cptcode, uint256 priceE18, bool paid);
     
-    function createBill(address patient, uint256 cptcode, uint256 pricex100) public {
-        bills[patient].push(Bill(msg.sender, patient, cptcode, pricex100, false));
-        emit BillCreated(msg.sender, patient, cptcode, pricex100);
+    function createBill(address patient, uint256 cptcode, uint256 priceE18) public {
+        bills[patient].push(Bill(msg.sender, patient, cptcode, priceE18, false));
+        emit BillCreated(msg.sender, patient, cptcode, priceE18);
     }
     
     function getBillCount(address patient) public view returns (uint256) {
@@ -32,13 +32,13 @@ contract Billing is Ownable {
     // cheaper to call smart contract offchain and compute than to call once on chain and compute on chain with for loops
     function getBillAtIndex(address patient, uint256 index) public view returns (address, address, uint256, uint256, bool) {
         Bill storage bill = bills[patient][index];
-        return (bill.physician, bill.patient, bill.cptcode, bill.pricex100, bill.paid);
+        return (bill.physician, bill.patient, bill.cptcode, bill.priceE18, bill.paid);
     }
     
     function payBill(address patient, uint256 index) public payable {
         Bill storage bill = bills[patient][index];
         require(msg.sender == bill.patient, "Only the patient can pay this bill");
-        require(msg.value == bill.pricex100, "Incorrect amount sent");
+        require(msg.value == bill.priceE18, "Incorrect amount sent");
         require(!bill.paid, "Bill already paid");
 
         bill.paid = true;
