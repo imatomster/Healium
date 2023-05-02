@@ -1,15 +1,29 @@
 const express = require("express");
 const router = express.Router();
-// const CPTCode = require("../models/CPTCode");
+const connectClient = require("../database");
+
+let cpt_db;
+// then and asynch is used to deal with waiting until the result is done before continuing
+connectClient("cpt_to_price", "csv").then((result) => {
+  cpt_db = result; // problem was that the varialble was intialzied to a promise
+
+  //space for testing below here
+});
 
 router.get("/findAndMatch", async function (req, res) {
-  body = req.body;
   const { department, symptoms, diagnosis, procedure } = req.body;
 
+  // pattern = new RegExp("|" + department + "|" + symptoms + "|" + diagnosis + "|" + procedure, 'i');
 
-  // console.log(CPTCode.find({ cptcode: 10061})._id);
+  pattern = new RegExp(procedure, "i");
 
-  return res.status(200).json({ body });
+  const query = await cpt_db
+    .find({ "CPT Short Description": pattern })
+    .limit(3)
+    .toArray();
+  console.log(query);
+
+  return res.status(200).json({ query });
 });
 
 module.exports = router;
