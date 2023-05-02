@@ -38,7 +38,6 @@ router.post("/recieve", async function (req, res) {
 });
 
 router.get("/getMSG", async function (req, res) {
-
   return res.status(200).json({ recievedMSG });
 });
 
