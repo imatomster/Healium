@@ -13,9 +13,12 @@ connectClient("cpt_to_price", "csv").then((result) => {
 router.get("/findAndMatch", async function (req, res) {
   const { department, symptoms, diagnosis, procedure } = req.body;
 
-  // pattern = new RegExp("|" + department + "|" + symptoms + "|" + diagnosis + "|" + procedure, 'i');
+  // room for improvement: split each of the var above into array of strings
+  // goal is to convert back to string, add | back and group each one
+  // find a way to count hwo many group captures each match has and then sort by that and select first one
+  split_procedure = procedure.split(' ').join('|');
 
-  pattern = new RegExp(procedure, "i");
+  pattern = new RegExp(split_procedure, "i");
 
   const query = await cpt_db
     .find({ "CPT Short Description": pattern })
