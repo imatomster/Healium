@@ -1,0 +1,56 @@
+.layout {
+    background-image: url('../images/landing_bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    /* background-attachment: fixed; */
+    background-size: cover;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+.logo_top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.content {
+    flex-grow: 3;
+    padding-left: 60px;
+
+    display:flex;
+    flex-direction: column;
+    padding-top: 100px;
+}
+
+.logo {
+    padding: 25px 25px 0 0;
+}
+
+.title  {
+    color: white;
+    font-size: 120px;
+    line-height: 1.1; 
+    padding-bottom: 20px;
+}
+
+.heading {
+    color: white;
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+
+.subheading {
+    color: white;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-evenly; */
+}
