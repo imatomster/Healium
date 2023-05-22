@@ -1,0 +1,16 @@
+.primary-filled {
+  align-items: flex-start;
+  border-radius: 13.5px;
+  display: flex;
+  left: 317px;
+  position: absolute;
+  top: 46px;
+  width: 100px;
+}
+
+.primary-filled.primary-filled-1 {
+  left: 229px;
+  top: 4px;
+  width: 82px;
+}
+

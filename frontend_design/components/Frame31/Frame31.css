@@ -1,0 +1,30 @@
+.frame-31-1 {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-home-1 {
+  height: 15.51px;
+  min-width: 13.82px;
+  position: relative;
+}
+
+.place-2 {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-31-1.frame-31-2 .icon-home-1 {
+  height: 15.51px;
+}
+
+.frame-31-1.frame-31-3 .icon-home-1 {
+  height: 15.51px;
+}
+

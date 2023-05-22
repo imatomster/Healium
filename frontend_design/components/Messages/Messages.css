@@ -1,0 +1,686 @@
+.messages-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 9px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.overlap-group7 {
+  height: 832px;
+  position: relative;
+  width: 218px;
+}
+
+.frame-50-2 {
+  align-items: flex-start;
+  background-color: var(--bleached-cedar);
+  box-shadow: 0px 4px 40px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  height: 832px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.navigation-expanded-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.nav-bar-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 12px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-30-2 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.drafts-1 {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.messages-4 {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-settings-2 {
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 765px;
+  width: 20px;
+}
+
+.support-2 {
+  left: 67px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 763px;
+  white-space: nowrap;
+}
+
+.ellipse-46-3 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 36px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-30.79deg);
+  width: 11px;
+}
+
+.ellipse-47-2 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 37px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-149.21deg);
+  width: 11px;
+}
+
+.ellipse-48-2 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 4px;
+  left: 40px;
+  position: absolute;
+  top: 47px;
+  width: 4px;
+}
+
+.ellipse-49-2 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 33px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.ellipse-50-2 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 12px;
+  min-height: 849px;
+  width: 1083px;
+}
+
+.flex-row-8 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 56.0px;
+  min-width: 157px;
+}
+
+.overlap-group5-1 {
+  height: 23px;
+  margin-top: 1px;
+  position: relative;
+  width: 22px;
+}
+
+.ellipse-37-2 {
+  background-color: var(--carnation);
+  border-radius: 5px;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.number-10 {
+  left: 15px;
+  letter-spacing: 0.12px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.icon-notifications-2 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.image-2-2 {
+  height: 30px;
+  margin-left: 15px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.dr-everly-2 {
+  align-self: center;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 17px;
+  min-height: 19px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group6 {
+  background-color: var(--white);
+  border-radius: 34px;
+  height: 801px;
+  position: relative;
+  width: 1083px;
+}
+
+.east-3 {
+  height: 16px;
+  left: 264px;
+  position: absolute;
+  top: 657px;
+  width: 32px;
+}
+
+.east-4 {
+  height: 16px;
+  left: 617px;
+  position: absolute;
+  top: 284px;
+  width: 24px;
+}
+
+.rectangle-31-1 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 675px;
+  left: 31px;
+  position: absolute;
+  top: 16px;
+  width: 975px;
+}
+
+.vector-2-2 {
+  height: 1px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 119px;
+  width: 857px;
+}
+
+.messages-5 {
+  left: 97px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+  width: 205px;
+}
+
+.frame-16 {
+  align-items: flex-start;
+  display: flex;
+  height: 526px;
+  left: 66px;
+  position: absolute;
+  top: 147px;
+  width: 887px;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  gap: 24px;
+  justify-content: flex-end;
+  margin-left: 27px;
+  min-width: 860px;
+  padding: 0 0.0px;
+}
+
+.flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  min-height: 268px;
+  width: 326px;
+}
+
+.overlap-group3-2 {
+  height: 54px;
+  margin-left: 3.99px;
+  position: relative;
+  width: 322px;
+}
+
+.overlap-group1-1 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.vector-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 322px;
+}
+
+.inbox-2 {
+  left: 0;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.edit_square-1 {
+  height: 24px;
+  left: 287px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+
+.image-7 {
+  height: 27px;
+  margin-left: 3.0px;
+  margin-top: 13px;
+  width: 27px;
+}
+
+.ellipse-1 {
+  align-self: flex-end;
+  background-color: var(--steel-blue);
+  border-radius: 5.5px;
+  height: 11px;
+  margin-right: 35.01px;
+  width: 11px;
+}
+
+.vector-5-1 {
+  height: 1px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 326px;
+}
+
+.image-8-1 {
+  height: 27px;
+  margin-left: 3.0px;
+  margin-top: 25px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.flex-row-9 {
+  align-items: flex-start;
+  display: flex;
+  gap: 256px;
+  height: 33px;
+  margin-left: 0;
+  min-width: 291px;
+}
+
+.account_circle-4 {
+  align-self: flex-end;
+  height: 24px;
+  width: 24px;
+}
+
+.ellipse-2 {
+  background-color: var(--steel-blue);
+  border-radius: 5.5px;
+  height: 11px;
+  width: 11px;
+}
+
+.vector-6 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 26px;
+  object-fit: cover;
+  width: 326px;
+}
+
+.overlap-group4-1 {
+  height: 526px;
+  position: relative;
+  width: 480px;
+}
+
+.vector-container {
+  height: 526px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+
+.vector-8-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 480px;
+}
+
+.vector-7-1 {
+  height: 526px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.image-10 {
+  height: 27px;
+  left: 24px;
+  position: absolute;
+  top: 135px;
+  width: 27px;
+}
+
+.image-9 {
+  height: 27px;
+  left: 24px;
+  position: absolute;
+  top: 18px;
+  width: 27px;
+}
+
+.image-11-2 {
+  height: 27px;
+  left: 424px;
+  object-fit: cover;
+  position: absolute;
+  top: 234px;
+  width: 27px;
+}
+
+.rectangle-26 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 133px;
+  width: 156px;
+}
+
+.rectangle-27 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 166px;
+  width: 112px;
+}
+
+.image-12-2 {
+  height: 27px;
+  left: 24px;
+  position: absolute;
+  top: 339px;
+  width: 27px;
+}
+
+.rectangle-31-2 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 337px;
+  width: 156px;
+}
+
+.rectangle-32 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 370px;
+  width: 112px;
+}
+
+.rectangle-33 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 403px;
+  width: 132px;
+}
+
+.rectangle-28 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 246px;
+  position: absolute;
+  top: 234px;
+  width: 156px;
+}
+
+.rectangle-30-1 {
+  background-color: var(--cararra);
+  border-radius: 20px;
+  height: 29px;
+  left: 74px;
+  position: absolute;
+  top: 468px;
+  width: 329px;
+}
+
+.rectangle-29 {
+  background-color: var(--alto);
+  border-radius: 20px;
+  height: 29px;
+  left: 290px;
+  position: absolute;
+  top: 268px;
+  width: 112px;
+}
+
+.dr-jones-1045-am {
+  left: 167px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 240px;
+}
+
+.span1-4 {
+  letter-spacing: 0.24px;
+}
+
+.jan-1-2023-1043-am {
+  left: 646px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 236px;
+}
+
+.dr-jones {
+  left: 536px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 169px;
+}
+
+.hey-dr-everly-can-1 {
+  left: 132px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 281px;
+  width: 215px;
+}
+
+.aa {
+  left: 559px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 621px;
+  width: 215px;
+}
+
+.just-send-over-the-l {
+  left: 132px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 394px;
+  width: 215px;
+}
+
+.dr-brown-930-am {
+  left: 166px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 355px;
+}
+
+.vector-5-2 {
+  height: 1px;
+  left: 128px;
+  object-fit: cover;
+  position: absolute;
+  top: 556px;
+  width: 320px;
+}
+
+.image-7-1 {
+  height: 27px;
+  left: 131px;
+  position: absolute;
+  top: 468px;
+  width: 27px;
+}
+
+.image-8-2 {
+  height: 27px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 582px;
+  width: 27px;
+}
+
+.dr-jones-1045-am-1 {
+  left: 167px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 463px;
+}
+
+.hey-dr-everly-can-2 {
+  left: 132px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 504px;
+  width: 215px;
+}
+
+.just-send-over-the-l-1 {
+  left: 132px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 617px;
+  width: 215px;
+}
+
+.dr-brown-930-am-1 {
+  left: 166px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 578px;
+}
+
+.icon-share {
+  height: 21px;
+  left: 430px;
+  position: absolute;
+  top: 181px;
+  width: 20px;
+}
+
+.screen-shot-2023-04-10-at-150-1 {
+  height: 52px;
+  left: 437px;
+  object-fit: cover;
+  position: absolute;
+  top: 219px;
+  width: 11px;
+}
+

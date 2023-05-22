@@ -1,0 +1,647 @@
+.billing-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 9px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.overlap-group2-1 {
+  height: 832px;
+  position: relative;
+  width: 218px;
+}
+
+.frame-50-1 {
+  align-items: flex-start;
+  background-color: var(--bleached-cedar);
+  box-shadow: 0px 4px 40px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  height: 832px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.navigation-expanded-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.nav-bar-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 12px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-29-3 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.attach_money-3 {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.billing-4 {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-settings-1 {
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 765px;
+  width: 20px;
+}
+
+.support-1 {
+  left: 67px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 763px;
+  white-space: nowrap;
+}
+
+.ellipse-46-2 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 36px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-30.79deg);
+  width: 11px;
+}
+
+.ellipse-47-1 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 37px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-149.21deg);
+  width: 11px;
+}
+
+.ellipse-48-1 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 4px;
+  left: 40px;
+  position: absolute;
+  top: 47px;
+  width: 4px;
+}
+
+.ellipse-49-1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 33px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.ellipse-50-1 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 12px;
+  min-height: 849px;
+  width: 1083px;
+}
+
+.flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 56.0px;
+  min-width: 157px;
+}
+
+.overlap-group3-1 {
+  height: 23px;
+  margin-top: 1px;
+  position: relative;
+  width: 22px;
+}
+
+.ellipse-37-1 {
+  background-color: var(--carnation);
+  border-radius: 5px;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.number-9 {
+  left: 15px;
+  letter-spacing: 0.12px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.icon-notifications-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.image-2-1 {
+  height: 30px;
+  margin-left: 15px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.dr-everly-1 {
+  align-self: center;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 17px;
+  min-height: 19px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group-container {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 34px;
+  display: flex;
+  gap: 11px;
+  height: 801px;
+  justify-content: flex-end;
+  min-width: 1083px;
+  padding: 16px 12px;
+}
+
+.overlap-group4 {
+  height: 680px;
+  position: relative;
+  width: 538px;
+}
+
+.east-1 {
+  height: 16px;
+  left: 233px;
+  position: absolute;
+  top: 641px;
+  width: 32px;
+}
+
+.frame-21 {
+  align-items: center;
+  display: flex;
+  height: 680px;
+  left: 0;
+  padding: 0 12px;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.overlap-group-1 {
+  border-radius: 20px;
+  height: 654px;
+  position: relative;
+  width: 512px;
+}
+
+.account_circle-1 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 137px;
+  width: 24px;
+}
+
+.account_circle-3 {
+  height: 24px;
+  left: 16px;
+  position: absolute;
+  top: 203px;
+  width: 24px;
+}
+
+.rectangle-25 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 654px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 512px;
+}
+
+.vector-2 {
+  height: 1px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 439px;
+}
+
+.create-bill {
+  left: 41px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 39px;
+  width: 205px;
+}
+
+.search {
+  height: 18px;
+  left: 268px;
+  position: absolute;
+  top: 207px;
+  width: 18px;
+}
+
+.frame-56 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 75px;
+  left: 36px;
+  padding: 3px 5px;
+  position: absolute;
+  top: 106px;
+  width: 334px;
+}
+
+.department,
+.symptoms {
+  height: 14px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame-48-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 16px;
+  position: relative;
+  width: 318px;
+}
+
+.browse-departments {
+  letter-spacing: -0.12px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 168px;
+}
+
+.vector {
+  height: 5.43px;
+  margin-right: -0.74px;
+  min-width: 9.37px;
+  position: relative;
+}
+
+.frame-57 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 75px;
+  left: 36px;
+  padding: 3px 5px;
+  position: absolute;
+  top: 210px;
+  width: 330px;
+}
+
+.overlap-group5 {
+  border-radius: 20px;
+  height: 479px;
+  margin-top: 12px;
+  position: relative;
+  width: 491px;
+}
+
+.east-2 {
+  height: 16px;
+  left: 37px;
+  position: absolute;
+  top: 256px;
+  width: 24px;
+}
+
+.rectangle-31 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 478px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 446px;
+}
+
+.frame-20 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 479px;
+  left: 0;
+  overflow: hidden;
+  padding: 0 44px;
+  position: absolute;
+  top: 0;
+  width: 491px;
+}
+
+.recent-bills {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  margin-left: 8px;
+  margin-top: 41px;
+  min-height: 24px;
+  white-space: nowrap;
+}
+
+.vector-2-1 {
+  height: 1px;
+  margin-left: 8.0px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 314px;
+}
+
+.flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 19px;
+  margin-left: 8px;
+  margin-top: 92px;
+  min-width: 314px;
+}
+
+.patient-name-1 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  min-height: 19px;
+  width: 95px;
+}
+
+.place-1 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-left: 39px;
+  min-height: 19px;
+  width: 33px;
+}
+
+.amount {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-left: 71px;
+  min-height: 19px;
+  width: 76px;
+}
+
+.upcoming-patients {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 292px;
+  margin-top: 15px;
+  overflow: hidden;
+  padding: 18px 0;
+  width: 321px;
+}
+
+.vector-8 {
+  height: 1px;
+  object-fit: cover;
+  width: 312px;
+}
+
+.flex-row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-right: -115px;
+  margin-top: 12px;
+  min-width: 427px;
+}
+
+.patient-name {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 80px;
+}
+
+.x1123-1 {
+  align-self: flex-end;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 53px;
+  min-height: 30px;
+  min-width: 49px;
+}
+
+.price-2 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 55px;
+  margin-top: 2px;
+  min-height: 15px;
+  min-width: 48px;
+}
+
+.completed {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 77px;
+  margin-top: 2px;
+  min-height: 15px;
+}
+
+.vector-5 {
+  height: 1px;
+  margin-top: 21px;
+  object-fit: cover;
+  width: 312px;
+}
+
+.flex-row-6 {
+  align-items: center;
+  display: flex;
+  height: 31px;
+  margin-right: -115px;
+  margin-top: 12px;
+  min-width: 427px;
+}
+
+.patient-name-2 {
+  align-self: flex-start;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  min-height: 30px;
+  min-width: 80px;
+}
+
+.price-3 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  margin-left: 55px;
+  min-height: 15px;
+  min-width: 42px;
+}
+
+.completed-1 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-bottom: 6.0px;
+  margin-left: 83px;
+  min-height: 15px;
+  min-width: 65px;
+}
+
+.vector-7 {
+  height: 1px;
+  margin-top: 20px;
+  object-fit: cover;
+  width: 312px;
+}
+
+.navbar-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-right: -99px;
+  margin-top: 14px;
+  min-width: 412px;
+}
+
+.navbar-link-1223-900-am {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 54px;
+  min-height: 30px;
+  min-width: 48px;
+}
+
+.navbar-link-price {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 56px;
+  min-height: 15px;
+  min-width: 41px;
+}
+
+.navbar-link-pending {
+  color: #f78383;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 84px;
+  min-height: 15px;
+}
+
+.flex-row-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 97px;
+  height: 44px;
+  margin-right: -219px;
+  margin-top: 18px;
+  min-width: 306px;
+  position: relative;
+}
+
+.frame-47-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  left: 52px;
+  padding: 10px 16px;
+  position: absolute;
+  top: 107px;
+  width: 318px;
+}
+
+.search-by-patient-department-date-1 {
+  letter-spacing: -0.12px;
+  line-height: normal;
+  margin-top: -0.50px;
+  position: relative;
+  width: 211px;
+}
+
+.icon-search-1 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+

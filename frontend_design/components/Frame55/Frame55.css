@@ -1,0 +1,80 @@
+.frame-55 {
+  align-items: flex-start;
+  display: flex;
+  gap: 34px;
+  height: 143px;
+  left: 558px;
+  padding: 6px 14px;
+  position: absolute;
+  top: 93px;
+  width: 378px;
+}
+
+.image-11 {
+  height: 70px;
+  margin-top: 1px;
+  width: 69px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 101px;
+  width: 230px;
+}
+
+.name-5 {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-height: 27px;
+  width: 227px;
+}
+
+.span1-2 {
+  letter-spacing: 0.32px;
+}
+
+.flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 30px;
+  margin-top: 13px;
+  min-width: 229px;
+}
+
+.phone-number-925-555-6678 {
+  line-height: normal;
+  min-height: 30px;
+  width: 104px;
+}
+
+.span0-2 {
+  letter-spacing: -0.16px;
+}
+
+.span1 {
+  letter-spacing: 0.24px;
+}
+
+.email-johngmailcom {
+  letter-spacing: 0.16px;
+  line-height: normal;
+  min-height: 19px;
+  width: 115px;
+}
+
+.address-123-piedmont {
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-top: 12px;
+  min-height: 19px;
+  width: 230px;
+}
+
+.frame-55.frame-55-1 {
+  left: 6px;
+  top: 21px;
+}
+

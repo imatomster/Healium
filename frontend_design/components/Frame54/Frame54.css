@@ -1,0 +1,23 @@
+.frame-54,
+.frame-54-1,
+.frame-54-2,
+.frame-54-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 8px;
+  padding: 8px 8px 8px 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.healium,
+.healium-1,
+.healium-2,
+.healium-3 {
+  letter-spacing: 1.66px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+

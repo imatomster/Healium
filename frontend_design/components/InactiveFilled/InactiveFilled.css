@@ -1,0 +1,24 @@
+.inactive-filled {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  height: 24px;
+  left: 394px;
+  position: absolute;
+  top: 594px;
+  width: 81px;
+}
+
+.inactive-filled.inactive-filled-1 {
+  left: 72px;
+  top: 319px;
+}
+
+.inactive-filled.inactive-filled-2 {
+  left: unset;
+  margin-right: 1px;
+  margin-top: 10px;
+  position: relative;
+  top: unset;
+}
+

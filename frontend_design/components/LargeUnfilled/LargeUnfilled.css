@@ -1,0 +1,10 @@
+.large-unfilled {
+  align-items: flex-start;
+  display: flex;
+  height: 72px;
+  left: 0;
+  min-width: 511px;
+  position: absolute;
+  top: 47px;
+}
+

@@ -1,0 +1,42 @@
+.frame-3-4 {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 325px;
+}
+
+.frame-3-5 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.image-1 {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.name-4 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.span2 {
+  letter-spacing: 0.24px;
+}
+
+.x1123-11 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+

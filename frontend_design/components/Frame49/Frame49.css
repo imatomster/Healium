@@ -1,0 +1,26 @@
+.frame-49 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 10px 10px 16px;
+  position: relative;
+  width: 318px;
+}
+
+.search-1 {
+  letter-spacing: -0.12px;
+  line-height: normal;
+  margin-top: -0.50px;
+  position: relative;
+  width: 168px;
+}
+
+.icon-search-2 {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+

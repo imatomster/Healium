@@ -1,0 +1,27 @@
+.frame-29,
+.frame-29-1,
+.frame-29-2 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.attach_money,
+.attach_money-1,
+.attach_money-2 {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.billing,
+.billing-1,
+.billing-2 {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+

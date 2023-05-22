@@ -1,5 +1,4 @@
 const { MongoClient } = require("mongodb");
-const ObjectID = require('mongodb').ObjectID;
 
 if (!process.env.MONGO_URI) {
   throw new Error('Invalid/Missing environment variable: "MONGO_URI"');

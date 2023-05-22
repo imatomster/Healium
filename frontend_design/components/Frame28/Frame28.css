@@ -1,0 +1,25 @@
+.frame-28 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.account_circle {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.patients {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-28.frame-28-1 .account_circle {
+  height: 20.73px;
+}
+

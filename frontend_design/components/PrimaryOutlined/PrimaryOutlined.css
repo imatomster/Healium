@@ -1,0 +1,21 @@
+.primary-outlined {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: transparent;
+  display: flex;
+  left: 282px;
+  position: absolute;
+  top: 206px;
+  width: fit-content;
+}
+
+.primary-outlined.primary-outlined-1 {
+  left: 313px;
+  top: 222px;
+}
+
+.primary-outlined.primary-outlined-2 {
+  left: 327px;
+  top: 227px;
+}
+

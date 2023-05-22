@@ -1,0 +1,873 @@
+.home {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 9px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.overlap-group {
+  height: 832px;
+  position: relative;
+  width: 218px;
+}
+
+.frame-50 {
+  align-items: flex-start;
+  background-color: var(--bleached-cedar);
+  box-shadow: 0px 4px 40px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  height: 832px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.navigation-expanded {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.nav-bar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 12px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-31 {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-home {
+  height: 15.51px;
+  min-width: 13.82px;
+  position: relative;
+}
+
+.place {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-settings {
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 765px;
+  width: 20px;
+}
+
+.support {
+  left: 67px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 763px;
+  white-space: nowrap;
+}
+
+.ellipse-46 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 36px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-30.79deg);
+  width: 11px;
+}
+
+.ellipse-47 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 37px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-149.21deg);
+  width: 11px;
+}
+
+.ellipse-48 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 4px;
+  left: 40px;
+  position: absolute;
+  top: 47px;
+  width: 4px;
+}
+
+.ellipse-49 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 33px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.ellipse-50 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.overlap-group3 {
+  height: 861px;
+  position: relative;
+  width: 1083px;
+}
+
+.overlap-group1 {
+  height: 861px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1083px;
+}
+
+.rectangle-30 {
+  background-color: var(--white);
+  border-radius: 34px;
+  height: 801px;
+  left: 0;
+  position: absolute;
+  top: 60px;
+  width: 1083px;
+}
+
+.east {
+  height: 28px;
+  left: 195px;
+  position: absolute;
+  top: 126px;
+  width: 30px;
+}
+
+.upcoming-visits {
+  left: 66px;
+  letter-spacing: -0.20px;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+  width: 205px;
+}
+
+.name {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 201px;
+  letter-spacing: 1.80px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 195px;
+  white-space: nowrap;
+}
+
+.frame-47 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--alto);
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+  left: 69px;
+  padding: 10px 16px;
+  position: absolute;
+  top: 146px;
+  width: 334px;
+}
+
+.search-by-patient-department-date {
+  color: #d2d2d2;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: -0.10px;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.icon-search {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.line-2 {
+  height: 832px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.ellipse-39 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 84px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-40 {
+  background-color: #351a56cc;
+  border-radius: 16.5px;
+  height: 33px;
+  left: 129px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-41 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 174px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-42 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 219px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-43 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 264px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-44 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 309px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.ellipse-45 {
+  background-color: var(--cararra);
+  border-radius: 16.5px;
+  height: 33px;
+  left: 354px;
+  position: absolute;
+  top: 250px;
+  width: 33px;
+}
+
+.number {
+  left: 95px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.price {
+  left: 97px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.m {
+  left: 141px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.t {
+  left: 187px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.w {
+  left: 230px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.t-1 {
+  left: 277px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.f {
+  left: 322px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.price-1 {
+  left: 367px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 229px;
+  white-space: nowrap;
+}
+
+.number-1 {
+  left: 184px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.number-2 {
+  left: 139px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.number-3 {
+  left: 229px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.number-4 {
+  left: 319px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.number-5 {
+  left: 365px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.number-6 {
+  left: 274px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 260px;
+  white-space: nowrap;
+}
+
+.line-4 {
+  height: 8px;
+  left: 64px;
+  position: absolute;
+  top: 263px;
+  width: 5px;
+}
+
+.line-5 {
+  height: 8px;
+  left: 402px;
+  position: absolute;
+  top: 263px;
+  width: 5px;
+}
+
+.line-6 {
+  height: 1px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 437px;
+  width: 541px;
+}
+
+.frame-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  left: 81px;
+  position: absolute;
+  top: 307px;
+  width: 325px;
+}
+
+.frame-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.today {
+  color: var(--grape);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 2.40px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-46 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-33 {
+  align-items: center;
+  background-color: #f6f6f6;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: var(--bon-jour);
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 8px;
+  position: relative;
+  width: 325px;
+}
+
+.frame-3 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.image-5 {
+  height: 27px;
+  min-width: 27.61px;
+  position: relative;
+}
+
+.name-1,
+.name-2,
+.name-3,
+.dr-brown-815-am {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.span-1 {
+  letter-spacing: 0.24px;
+}
+
+.x1123 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: relative;
+  text-align: right;
+  width: fit-content;
+}
+
+.frame-3-1 {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: var(--bon-jour);
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 8px;
+  position: relative;
+  width: 325px;
+}
+
+.image-3 {
+  height: 27px;
+  min-width: 28.04px;
+  object-fit: cover;
+  position: relative;
+}
+
+.image {
+  height: 27px;
+  min-width: 27px;
+  position: relative;
+}
+
+.tomorrow {
+  letter-spacing: 1.80px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-3-2 {
+  height: 30px;
+  min-width: 325px;
+  position: relative;
+}
+
+.number-7 {
+  left: 960px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 566px;
+  white-space: nowrap;
+}
+
+.inbox {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 348px;
+  left: 542px;
+  overflow: hidden;
+  padding: 30px 0;
+  position: absolute;
+  top: 447px;
+  width: 475px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  margin-right: 13.0px;
+  min-width: 434px;
+}
+
+.inbox-1 {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-height: 24px;
+  white-space: nowrap;
+  width: 61px;
+}
+
+.edit_square {
+  height: 10px;
+  margin-left: 287px;
+  margin-top: 2.0px;
+  width: 10px;
+}
+
+.new-message {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0.20px;
+  line-height: normal;
+  margin-left: 6px;
+  min-height: 12px;
+  min-width: 70px;
+  white-space: nowrap;
+}
+
+.line-7 {
+  height: 1px;
+  margin-right: 8.0px;
+  margin-top: 21px;
+  width: 439px;
+}
+
+.frame-45 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-right: -131px;
+  margin-top: 10px;
+  position: relative;
+  width: 592px;
+}
+
+.frame-33-1 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: var(--bon-jour);
+  display: flex;
+  height: 70px;
+  padding: 12px 12px 12px 8px;
+  position: relative;
+  width: 439px;
+}
+
+.dr-jones-930-am {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 342px;
+}
+
+.hey-dr-everly-can,
+.just-sent-over-the-l,
+.how-did-the-meeting-with-mary-go {
+  left: 59px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+  width: 289px;
+}
+
+.ellipse-46-1 {
+  height: 10px;
+  left: 424px;
+  position: absolute;
+  top: 26px;
+  width: 10px;
+}
+
+.frame-3-3 {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: var(--bon-jour);
+  display: flex;
+  gap: 290px;
+  height: 70px;
+  padding: 12px 0px 12px 8px;
+  position: relative;
+  width: 439px;
+}
+
+.image-8 {
+  height: 27px;
+  min-width: 27px;
+  object-fit: cover;
+  position: relative;
+}
+
+.frame-51 {
+  height: 26px;
+  margin-right: -4.00px;
+  min-width: 26px;
+  position: relative;
+}
+
+.image-12 {
+  height: 27px;
+  min-width: 27.04px;
+  position: relative;
+}
+
+.dr-bailey-800-am {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 68px;
+}
+
+.frame-51-1 {
+  height: 26px;
+  margin-right: -4.04px;
+  min-width: 26px;
+  position: relative;
+}
+
+.image-12-1 {
+  height: 27px;
+  margin-bottom: -1188.00px;
+  margin-right: -178.09px;
+  min-width: 27.04px;
+  position: relative;
+}
+
+.proposed-treatment-r {
+  height: 85px;
+  left: 825px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 253px;
+}
+
+.frame-53 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 559px;
+  padding: 7px 12px;
+  position: absolute;
+  top: 247px;
+  width: fit-content;
+}
+
+.frame-48 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 238px;
+}
+
+.past-symptoms-broken {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 233px;
+}
+
+.image-2 {
+  height: 30px;
+  left: 907px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 29px;
+}
+
+.overlap-group2 {
+  height: 23px;
+  left: 870px;
+  position: absolute;
+  top: 13px;
+  width: 22px;
+}
+
+.ellipse-37 {
+  background-color: var(--carnation);
+  border-radius: 5px;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.number-8 {
+  left: 15px;
+  letter-spacing: 0.12px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.icon-notifications {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.dr-everly {
+  left: 953px;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+}
+

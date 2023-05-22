@@ -1,0 +1,25 @@
+.frame-30 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.drafts {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.messages {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-30.frame-30-1 .drafts {
+  height: 20.73px;
+}
+

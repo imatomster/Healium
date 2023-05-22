@@ -1,0 +1,809 @@
+.patients-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  gap: 9px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.overlap-group5-2 {
+  height: 832px;
+  position: relative;
+  width: 218px;
+}
+
+.frame-50-3 {
+  align-items: flex-start;
+  background-color: var(--bleached-cedar);
+  box-shadow: 0px 4px 40px #0000000d;
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  height: 832px;
+  left: 0;
+  padding: 32px;
+  position: absolute;
+  top: 0;
+  width: 218px;
+}
+
+.navigation-expanded-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  justify-content: center;
+  position: relative;
+  width: fit-content;
+}
+
+.nav-bar-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 12px 3px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-28-3 {
+  align-items: center;
+  display: flex;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.account_circle-5 {
+  height: 20.73px;
+  min-width: 20.73px;
+  position: relative;
+}
+
+.patients-4 {
+  letter-spacing: -0.14px;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.icon-settings-3 {
+  height: 20px;
+  left: 26px;
+  position: absolute;
+  top: 765px;
+  width: 20px;
+}
+
+.support-3 {
+  left: 67px;
+  letter-spacing: 0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 763px;
+  white-space: nowrap;
+}
+
+.ellipse-46-4 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 36px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-30.79deg);
+  width: 11px;
+}
+
+.ellipse-47-3 {
+  border: 0.5px solid;
+  border-color: var(--white);
+  border-radius: 5.68px/11.68px;
+  height: 23px;
+  left: 37px;
+  position: absolute;
+  top: 37px;
+  transform: rotate(-149.21deg);
+  width: 11px;
+}
+
+.ellipse-48-3 {
+  background-color: var(--white);
+  border-radius: 2px;
+  height: 4px;
+  left: 40px;
+  position: absolute;
+  top: 47px;
+  width: 4px;
+}
+
+.ellipse-49-3 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 33px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.ellipse-50-3 {
+  background-color: var(--white);
+  border-radius: 1px;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 39px;
+  width: 2px;
+}
+
+.flex-col-5 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 12px;
+  min-height: 849px;
+  width: 1083px;
+}
+
+.flex-row-10 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 56.0px;
+  min-width: 157px;
+}
+
+.overlap-group3-3 {
+  height: 23px;
+  margin-top: 1px;
+  position: relative;
+  width: 22px;
+}
+
+.ellipse-37-3 {
+  background-color: var(--carnation);
+  border-radius: 5px;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.number-11 {
+  left: 15px;
+  letter-spacing: 0.12px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.icon-notifications-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 16px;
+}
+
+.image-2-3 {
+  height: 30px;
+  margin-left: 15px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.dr-everly-3 {
+  align-self: center;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-bottom: 3.0px;
+  margin-left: 17px;
+  min-height: 19px;
+  min-width: 74px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.flex-col-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 34px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  min-height: 801px;
+  padding: 8px 13px;
+  width: 1083px;
+}
+
+.flex-row-11 {
+  align-items: flex-start;
+  display: flex;
+  height: 377px;
+  min-width: 1030px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 377px;
+  width: 424px;
+}
+
+.overlap-group9 {
+  height: 164px;
+  position: relative;
+  width: 423px;
+}
+
+.rectangle-36 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 423px;
+}
+
+.east-5 {
+  height: 28px;
+  left: 142px;
+  position: absolute;
+  top: 29px;
+  width: 30px;
+}
+
+.overlap-group8 {
+  border-radius: 20px;
+  height: 207px;
+  margin-left: 1px;
+  position: relative;
+  width: 423px;
+}
+
+.line-5-1 {
+  height: 8px;
+  left: 52px;
+  position: absolute;
+  top: 20px;
+  width: 5px;
+}
+
+.rectangle-34 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 207px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 423px;
+}
+
+.address {
+  height: 24px;
+  left: 290px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.span1-5 {
+  letter-spacing: 0.24px;
+}
+
+.x986-f {
+  height: 24px;
+  left: 290px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  white-space: nowrap;
+}
+
+.image-11-3 {
+  height: 27px;
+  left: 239px;
+  object-fit: cover;
+  position: absolute;
+  top: 107px;
+  width: 27px;
+}
+
+.address-1 {
+  height: 24px;
+  left: 71px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 68px;
+  white-space: nowrap;
+}
+
+.x10868-mm-hg {
+  height: 24px;
+  left: 71px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  white-space: nowrap;
+}
+
+.percent {
+  height: 24px;
+  left: 71px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 150px;
+  white-space: nowrap;
+}
+
+.vector-10 {
+  height: 2px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 135px;
+}
+
+.todays-vitals {
+  left: 28px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 205px;
+}
+
+.image-13 {
+  height: 28px;
+  left: 241px;
+  object-fit: cover;
+  position: absolute;
+  top: 65px;
+  width: 28px;
+}
+
+.icon-heart {
+  height: 23px;
+  left: 28px;
+  position: absolute;
+  top: 69px;
+  width: 23px;
+}
+
+.vital_signs {
+  height: 24px;
+  left: 28px;
+  position: absolute;
+  top: 110px;
+  width: 24px;
+}
+
+.image-14 {
+  height: 22px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 152px;
+  width: 22px;
+}
+
+.overlap-group10 {
+  height: 373px;
+  margin-left: 28px;
+  position: relative;
+  width: 329px;
+}
+
+.rectangle-35 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 373px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 318px;
+}
+
+.symptoms-1 {
+  height: 17px;
+  left: 24px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 82px;
+}
+
+.proposed-treatment {
+  height: 17px;
+  left: 24px;
+  letter-spacing: 0.28px;
+  line-height: normal;
+  position: absolute;
+  top: 217px;
+}
+
+.x1123-345-pm {
+  color: var(--steel-blue);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 249px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 80px;
+}
+
+.vector-12 {
+  height: 1px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 272px;
+}
+
+.previous-visit {
+  left: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  width: 165px;
+}
+
+.broken-ankle-causing {
+  height: 75px;
+  left: 18px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+  width: 250px;
+}
+
+.rest-ice-x-ray-exa {
+  height: 45px;
+  left: 19px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 244px;
+  width: 250px;
+}
+
+.overlap-group7-1 {
+  height: 373px;
+  margin-left: 13px;
+  position: relative;
+  width: 236px;
+}
+
+.rectangle-38 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  height: 373px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 224px;
+}
+
+.vector-9 {
+  height: 1px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 121px;
+}
+
+.medications {
+  left: 31px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 26px;
+  width: 205px;
+}
+
+.flex-row-12 {
+  align-items: flex-end;
+  display: flex;
+  min-width: 1018px;
+}
+
+.overlap-group6-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2px;
+  min-height: 336px;
+  padding: 29px 25px;
+  position: relative;
+  width: 577px;
+}
+
+.overlap-group11 {
+  height: 119px;
+  position: relative;
+  width: 511px;
+}
+
+.vector-11 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 308px;
+}
+
+.consultation-notes,
+.recent-payments {
+  left: 0;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 205px;
+}
+
+.east-6 {
+  align-self: center;
+  height: 16px;
+  margin-right: 44.65px;
+  margin-top: 103px;
+  width: 32px;
+}
+
+.frame-17 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 496px;
+  height: 347px;
+  overflow: hidden;
+  width: 441px;
+}
+
+.flex-col-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--gallery);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+  min-height: 337px;
+  padding: 20px 29px;
+  width: 414px;
+}
+
+.flex-col-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  min-height: 209px;
+  width: 315px;
+}
+
+.overlap-group2-2 {
+  height: 54px;
+  position: relative;
+  width: 315px;
+}
+
+.overlap-group1-2 {
+  height: 54px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 315px;
+}
+
+.vector-1-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 315px;
+}
+
+.flex-row-13 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 19px;
+  margin-right: 4.0px;
+  margin-top: 8px;
+  min-width: 304px;
+}
+
+.transaction {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  min-height: 19px;
+  width: 95px;
+}
+
+.place-5 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-left: 43px;
+  min-height: 19px;
+  width: 33px;
+}
+
+.amount-1 {
+  letter-spacing: 0.28px;
+  line-height: normal;
+  margin-left: 77px;
+  min-height: 19px;
+  width: 56px;
+}
+
+.vector-2-3 {
+  height: 1px;
+  margin-left: 0;
+  margin-top: 18px;
+  object-fit: cover;
+  width: 315px;
+}
+
+.flex-row-14 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 8.0px;
+  margin-top: 14px;
+  min-width: 278px;
+}
+
+.x-ray {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 16px;
+  min-width: 37px;
+}
+
+.x1123-345-pm-1 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 100px;
+  min-height: 32px;
+  min-width: 47px;
+}
+
+.price-4 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 63px;
+  margin-top: 4px;
+  min-height: 16px;
+}
+
+.flex-row-15 {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  margin-left: 7.0px;
+  margin-top: 31px;
+  min-width: 278px;
+}
+
+.medication {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-top: 4px;
+  min-height: 16px;
+  min-width: 68px;
+}
+
+.x1123-530-pm {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 70px;
+  min-height: 32px;
+  min-width: 48px;
+}
+
+.price-5 {
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 62px;
+  margin-top: 4px;
+  min-height: 16px;
+}
+
+.flex-row-16 {
+  align-items: flex-start;
+  display: flex;
+  height: 55px;
+  min-width: 290px;
+}
+
+.flex-col-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 43px;
+  width: 49px;
+}
+
+.account_circle-6 {
+  height: 24px;
+  width: 24px;
+}
+
+.x-ray-1 {
+  align-self: flex-end;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  min-height: 16px;
+  min-width: 37px;
+}
+
+.x1223-900-am {
+  align-self: flex-end;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 99px;
+  min-height: 32px;
+  min-width: 49px;
+}
+
+.price-6 {
+  align-self: center;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  margin-left: 62px;
+  margin-top: 15.0px;
+  min-height: 16px;
+  min-width: 31px;
+}
+
+.east-7 {
+  height: 28px;
+  margin-left: 8.58px;
+  width: 24px;
+}
+

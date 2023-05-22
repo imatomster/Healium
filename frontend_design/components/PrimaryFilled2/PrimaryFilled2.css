@@ -1,0 +1,9 @@
+.primary-filled-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  border-radius: 14.44px;
+  display: flex;
+  position: relative;
+  width: fit-content;
+}
+

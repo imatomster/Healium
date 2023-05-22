@@ -25,3 +25,4 @@ cache
 artifacts
 
 .DS_Store
+.parcel-cache
